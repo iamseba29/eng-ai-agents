@@ -18,7 +18,7 @@ Status: ⬜ not started · 🟡 in progress · ✅ committed
 | ✅ | Fig 6.3 (a) | `images/fig06_03a.png` | Synthesize. Snell's law diagram — flat interface, normal, incoming and refracted ray with angle arcs. |
 | — | Fig 6.3 (b) | — | Skip. Physical photo (straw in water). Acknowledged in prose. |
 | ✅ | Fig 6.4 (a) | `images/fig06_04a.png` | Synthesize. Thin-lens geometry — object point, lens, image point, ray fan converging. |
-| ⬜ | Fig 6.4 (b) | `images/fig06_04b.png` | Synthesize. 6.4 (a) re-labeled with the four ray angles of Table 6.1. |
+| 🟡 | Fig 6.4 (b) | `images/fig06_04b.png` | Synthesize. 6.4 (a) re-labeled with the four ray angles of Table 6.1. |
 | ⬜ | Fig 6.5 | `images/fig06_05.png` | Synthesize. Spherical lens surface as a circular arc, $\theta_S$ at height $c$. |
 
 ## 6.3 — Imaging with Lenses
